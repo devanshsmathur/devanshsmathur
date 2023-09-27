@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devanshsmathur
 - 👀 I’m interested in exploring the world of programming..
-- 🌱 I’m currently learning React.js, NodeJS
+- 🌱 Current key technologies --> Springboot, MongoDB, Java Core
 - 📫 You can reach me at : devanshmathur0@gmail.com
 
 <!---
